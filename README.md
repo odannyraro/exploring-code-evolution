@@ -89,7 +89,6 @@ Seja criativo!
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 1. Repositório selecionado: <https://github.com/yt-dlp/yt-dlp>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
-
+2. Gráfico selecionado: ![Gráfico selecionado](./tests.png)
+3. Explicação: o gráfico mostra que a quantidade de arquivos de testes evolui muito pouco ao longo dos 5 anos de vida do repositório, enquanto a quantidade de arquivos de código em produção cresce um pouco mais. Isso reflete a característica de bons testes, que só devem sofrer grandes mudanças mediante mudanças de comportamento e funcionalidades do sistema, e devem ser uma sólida e estável fundação para monitorar a consistência e corretude de alterações menores no código.
 
